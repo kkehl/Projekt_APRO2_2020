@@ -1,0 +1,25 @@
+[
+  {
+    "sciezka": "ziemia.mp4",
+    "fps": 30,
+    "rozdzielczosc": "640x360",
+    "dlugosc": "00:00:30"
+  },
+  {
+    "sciezka": "krotkie.mp4",
+    "fps": 29.97,
+    "rozdzielczosc": "640x360",
+    "dlugosc": "00:00:09"
+  },
+  {
+    "sciezka": "dog.png",
+    "rozdzielczosc": "1999x1499"
+  },
+  {
+    "sciezka": "bunny.mp4",
+    "fps": 30,
+    "rozdzielczosc": "1920x1080" ,
+    "dlugosc:": "00:00:10"
+
+  }
+]
